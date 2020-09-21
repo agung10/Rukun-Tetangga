@@ -70,7 +70,7 @@
                     </tr>
                 </thead>
                 <tbody>
-                    @foreach( $data_diris as $key )
+                    @foreach ($data_diris as $res)
                     <tr class="text-center">
                         <td>{{ $loop->iteration}}</td>
                         <td>{{ $res->Pernikahan->pernikahan }} </td>

@@ -71,7 +71,7 @@
                                     </div>
                                     <div class="form-group col-md-6">
                                         <label>Tempat Lahir</label>
-                                        <textarea name="tempat_lahir" id="tempat_lahir" class="form-control">{{ $data_diris->tempat_lahir }}</textarea>
+                                        <input type="text" name="tempat_lahir" id="tempat_lahir" value="{{ $data_diris->tempat_lahir }}" class="form-control" required>
                                     </div>
                                     <div class="form-group col-md-3">
                                         <label>Tanggal Lahir</label>

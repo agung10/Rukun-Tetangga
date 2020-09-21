@@ -22,7 +22,7 @@
             <div class="row">
                 <div class="col-12 mb-4">
                     <div class="hero text-white hero-bg-image" style="
-                    background-image: url('../../../public/assets/stisla/img/custom/profile-data.png');
+                    background-image: url('{{asset('assets/stisla/img/custom/profile-data.png')}}');
                     background-position: right;
                     background-size: contain;
                     object-fit: cover;
