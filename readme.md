@@ -1,4 +1,12 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+#Wellcome Page
+[![Screenshot-1.png](https://i.postimg.cc/3N3QSgxR/Screenshot-1.png)](https://postimg.cc/HcvNj85D)
+
+#Dashboard
+[![Screenshot-2.png](https://i.postimg.cc/xC3LV2nR/Screenshot-2.png)](https://postimg.cc/BLtj2R8L)
+
+
+
+<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
