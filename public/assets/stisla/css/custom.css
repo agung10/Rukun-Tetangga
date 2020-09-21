@@ -1,0 +1,28 @@
+.image-preview,
+#callback-preview {
+    width: 100% !important;
+    height: 190px !important;
+}
+
+.image-preview label,
+#callback-preview label {
+    width: 125px;
+    height: 35px;
+    font-size: 13px;
+    line-height: 38px;
+}
+
+.card.card-statistic-2 .card-chart {
+    background-image: url("img/homeFlat.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-transform: rotate(180deg);
+}
+
+
+/* .card.card-statistic-2{
+    background-image: url("https://s3.pixers.pics/pixers/700/FO/57/88/83/42/700_FO57888342_5b3cec2f2e745042b8cbfbd7782dc20b.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    object-fit: cover;
+} */
